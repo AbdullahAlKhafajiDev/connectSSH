@@ -8,4 +8,4 @@
 ## Using the SSH keys
 * To use the SSH keys, first add the public key (the one that ends in .pub) to the GitHub account. 
 * Use the second bash script **connectSSH.sh** to start the verification agent and adding the private key in the following way:
- * `. ./connectSSH.sh`
+  * `. ./connectSSH.sh`
