@@ -1,2 +1,2 @@
 #!/bin/bash
-eval "$(ssh-agent -s)" && ssh-add /home/aalkhafaji/Desktop/ACCprojects/web/githubSSHKey
+eval "$(ssh-agent -s)" && ssh-add ~.ssh/id_rsa
