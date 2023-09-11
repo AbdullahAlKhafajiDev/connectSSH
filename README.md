@@ -1,4 +1,4 @@
-# Connecting to GitHub SSH using Linux
+# Connecting to GitHub SSH with Linux
 
 ## Making the public/private keys
 * To make the public and private keys do:
